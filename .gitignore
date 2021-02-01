@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+build/
+mylibtest.egg-info
+dist/
+dist/*
+__pycache__/
+tests/

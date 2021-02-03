@@ -1,8 +1,9 @@
 .vscode/
 .idea/
 build/
-mylibtest.egg-info
+mylibtest.egg-info/
 dist/
 dist/*
+files/
 __pycache__/
-tests/
+mylibtest/colorization/models/
